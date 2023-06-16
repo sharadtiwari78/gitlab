@@ -1,2 +1,3 @@
 commit #1
-add f1 commit #2
+add f2 commit #3
+add f3 comit #4
